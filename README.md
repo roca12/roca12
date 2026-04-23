@@ -17,5 +17,5 @@ Competitive programmer and software developer focused on building learning platf
 `Java` `TypeScript` `JavaScript` `Angular` `Spring Boot` `Node.js` `MongoDB` `Python` `Kotlin` `C++`
 
 ### 📊 GitHub activity
-![GitHub statistics for roca12 including contributions and activity](https://github-readme-stats.vercel.app/api?username=roca12&show_icons=true&theme=tokyonight)
-![Top programming languages used by roca12 based on public repositories](https://github-readme-stats.vercel.app/api/top-langs/?username=roca12&layout=compact&theme=tokyonight)
+![GitHub stats for roca12](https://github-readme-stats.vercel.app/api?username=roca12&show_icons=true&theme=tokyonight)
+![Top languages for roca12](https://github-readme-stats.vercel.app/api/top-langs/?username=roca12&layout=compact&theme=tokyonight)
