@@ -21,6 +21,15 @@ Competitive programmer and software developer focused on building learning platf
 
 ![CodersRank work experience for roca12](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=work-experience&username=roca12&logos=true)
 
+### 🎓 Education (from CodersRank)
+![CodersRank education for roca12](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=education&username=roca12)
+
+### 🗂️ Portfolio (from CodersRank)
+![CodersRank portfolio for roca12](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=portfolio&username=roca12&logos=true)
+
+### 🏆 Certificates (from CodersRank)
+![CodersRank certificates for roca12](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=certificates&username=roca12&logos=true)
+
 ### 📊 GitHub activity
 ![GitHub stats for roca12](https://github-readme-stats.vercel.app/api?username=roca12&show_icons=true&theme=tokyonight)
 ![Top languages for roca12](https://github-readme-stats.vercel.app/api/top-langs/?username=roca12&layout=compact&theme=tokyonight)
