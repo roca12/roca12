@@ -1,16 +1,35 @@
-## Hi there 👋
+## Hi there, I'm roca12 👋
 
-<!--
-**roca12/roca12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Competitive programmer and software developer focused on building learning platforms, bots, and full-stack projects.
 
-Here are some ideas to get you started:
+### 🔎 Profiles
+- [GitHub profile for roca12](https://github.com/roca12)
+- [CodersRank profile for roca12](https://profile.codersrank.io/user/roca12)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Featured work
+- [gpccodes](https://github.com/roca12/gpccodes): competitive programming solutions and training material.
+- [ArtemisaAngular](https://github.com/roca12/ArtemisaAngular): knowledge library for competitive programming (Angular + Node.js + Express + MongoDB).
+- [SpringAngular](https://github.com/roca12/SpringAngular): web development training project with Spring Boot, MongoDB, and Angular.
+- [GPC-UEB-Repo](https://github.com/roca12/GPC-UEB-Repo): repository for competitive programming practice.
+- [ApoloBOT](https://github.com/roca12/ApoloBOT): Discord bot for server management and coaching support.
+
+### 🧠 Main technologies
+`Java` `TypeScript` `JavaScript` `Angular` `Spring Boot` `Node.js` `MongoDB` `Python` `Kotlin` `C++`
+
+### 💼 Work experience (from CodersRank)
+[View complete experience in CodersRank](https://profile.codersrank.io/user/roca12)
+
+![CodersRank work experience for roca12](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=work-experience&username=roca12&logos=true)
+
+### 🎓 Education (from CodersRank)
+![CodersRank education for roca12](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=education&username=roca12)
+
+### 🗂️ Portfolio (from CodersRank)
+![CodersRank portfolio for roca12](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=portfolio&username=roca12&logos=true)
+
+### 🏆 Certificates (from CodersRank)
+![CodersRank certificates for roca12](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=certificates&username=roca12&logos=true)
+
+### 📊 GitHub activity
+![GitHub stats for roca12](https://github-readme-stats.vercel.app/api?username=roca12&show_icons=true&theme=tokyonight)
+![Top languages for roca12](https://github-readme-stats.vercel.app/api/top-langs/?username=roca12&layout=compact&theme=tokyonight)
