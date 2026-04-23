@@ -16,6 +16,11 @@ Competitive programmer and software developer focused on building learning platf
 ### 🧠 Main technologies
 `Java` `TypeScript` `JavaScript` `Angular` `Spring Boot` `Node.js` `MongoDB` `Python` `Kotlin` `C++`
 
+### 💼 Work experience (from CodersRank)
+[View complete experience in CodersRank](https://profile.codersrank.io/user/roca12)
+
+![CodersRank work experience for roca12](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=work-experience&username=roca12&logos=true)
+
 ### 📊 GitHub activity
 ![GitHub stats for roca12](https://github-readme-stats.vercel.app/api?username=roca12&show_icons=true&theme=tokyonight)
 ![Top languages for roca12](https://github-readme-stats.vercel.app/api/top-langs/?username=roca12&layout=compact&theme=tokyonight)
